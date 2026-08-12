@@ -8,7 +8,7 @@ Basic idea of the project:
     Operating the firefighting unit and extinguishing the fire.
     After extinguishing, the alarm sirens and the extinguishing unit are turned off, and the mechanism returns to its original position.
   ______________________________________________________________________________________________________________________________________
-Components that we used it:
+Hardware Components:
 - Arduino Mega 2560
 - DHT11 Sensor
 - MQ-7 Sensor
