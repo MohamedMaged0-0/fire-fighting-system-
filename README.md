@@ -20,3 +20,7 @@ Hardware Components:
 - LCD(16X2)&I2C
 - Power Supply
 - Jumper Wires
+  ______________________________________________________________________________________________________________________________________
+  Programming the project:
+I used Arduino IDE to write the code for programming the project, and we also used the Arduino Simulation to design the electronic circuit of the project.
+
