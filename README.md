@@ -22,5 +22,6 @@ Hardware Components:
 - Jumper Wires
   ______________________________________________________________________________________________________________________________________
   Programming the project:
+  
 I used Arduino IDE to write the code for programming the project, and we also used the Arduino Simulation to design the electronic circuit of the project.
 
