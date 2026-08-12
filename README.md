@@ -7,6 +7,4 @@ Basic idea of the project:
     Directing the mechanics to the place of the fire.
     Operating the firefighting unit and extinguishing the fire.
     After extinguishing, the alarm sirens and the extinguishing unit are turned off, and the mechanism returns to its original position.
-  --------------------------------------------------------------------------------------------------------------------------------------
-
-
+  ____________________________________________________________________________________________________________________________________
