@@ -7,4 +7,16 @@ Basic idea of the project:
     Directing the mechanics to the place of the fire.
     Operating the firefighting unit and extinguishing the fire.
     After extinguishing, the alarm sirens and the extinguishing unit are turned off, and the mechanism returns to its original position.
-  ____________________________________________________________________________________________________________________________________
+  ______________________________________________________________________________________________________________________________________
+Components that we used it:
+- Arduino Mega 2560
+- DHT11 Sensor
+- MQ-7 Sensor
+- MQ-135 Sensor
+- Motor driver L298N
+- Stepper Motor Nema 17
+- DC Motor 12V
+- Relay 5V
+- LCD(16X2)&I2C
+- Power Supply
+- Jumper Wires
